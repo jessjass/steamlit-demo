@@ -1,0 +1,38 @@
+CustomerID,Name,Email,Phone,Address,City,State,ZipCode,PurchaseDate,TotalSpent,CupcakeType
+101,Alice Smith,alice@example.com,555-1234,123 Main St,Anytown,CA,12345,2023-12-15,75.00,Chocolate
+101,Alice Smith,alice@example.com,555-1234,123 Main St,Anytown,CA,12345,2024-02-20,45.00,Vanilla
+102,Bob Johnson,bob@example.com,555-5678,456 Elm St,Somewhere,TX,67890,2024-02-03,42.50,Vanilla
+103,Charlie Brown,charlie@example.com,555-9012,789 Oak St,Nowhere,NY,45678,2024-01-20,110.25,Red Velvet
+103,Charlie Brown,charlie@example.com,555-9012,789 Oak St,Nowhere,NY,45678,2024-03-10,65.75,Blueberry
+104,Diana Lee,diana@example.com,555-3456,321 Pine St,Anywhere,FL,23456,2023-11-05,92.80,Strawberry
+105,Emily Davis,emily@example.com,555-7890,654 Maple St,Somewhen,WA,78901,2024-03-10,65.50,Blueberry
+106,Frank Martinez,frank@example.com,555-2345,987 Cedar St,Everytown,OH,34567,2023-10-12,55.00,Chocolate
+106,Frank Martinez,frank@example.com,555-2345,987 Cedar St,Everytown,OH,34567,2024-02-25,70.50,Red Velvet
+107,Grace Wilson,grace@example.com,555-6789,210 Birch St,Somewhy,IL,45678,2024-02-28,80.20,Vanilla
+108,Henry Taylor,henry@example.com,555-1234,543 Birch St,Nowhen,MI,56789,2023-09-08,35.75,Red Velvet
+109,Isabella Brown,isa@example.com,555-5678,876 Pine St,Somewhich,NC,67890,2024-03-15,120.90,Strawberry
+110,Jack Harris,jack@example.com,555-9012,345 Maple St,Everywhere,TX,12345,2023-12-29,70.00,Blueberry
+111,Kevin Clark,kevin@example.com,555-2345,678 Walnut St,Anywhere,CA,23456,2024-01-05,95.25,Chocolate
+112,Linda Taylor,linda@example.com,555-6789,890 Pine St,Anytown,TX,34567,2023-11-17,55.75,Vanilla
+113,Megan Brown,megan@example.com,555-1234,321 Elm St,Somewhere,FL,45678,2024-02-12,85.40,Red Velvet
+114,Nathan Johnson,nathan@example.com,555-5678,543 Oak St,Nowhere,WA,56789,2024-03-22,70.60,Strawberry
+115,Olivia Smith,olivia@example.com,555-9012,765 Maple St,Somewhen,CA,67890,2023-10-29,60.00,Blueberry
+116,Peter Wilson,peter@example.com,555-3456,432 Cedar St,Everytown,MI,78901,2024-01-14,100.25,Chocolate
+117,Quinn Martinez,quinn@example.com,555-7890,876 Birch St,Somewhy,FL,12345,2023-12-08,40.50,Vanilla
+118,Rachel Clark,rachel@example.com,555-2345,109 Pine St,Nowhen,NC,23456,2024-03-05,75.80,Red Velvet
+119,Steven Harris,steven@example.com,555-6789,987 Maple St,Everywhere,WA,34567,2023-09-19,110.90,Strawberry
+120,Tina Brown,tina@example.com,555-1234,234 Oak St,Anywhere,CA,45678,2024-02-18,50.00,Blueberry
+121,Uriel Johnson,uriel@example.com,555-5678,876 Elm St,Somewhere,TX,56789,2024-01-10,85.75,Chocolate
+122,Victoria Davis,victoria@example.com,555-9012,543 Pine St,Nowhere,FL,67890,2023-11-25,95.20,Vanilla
+123,Walter Smith,walter@example.com,555-3456,765 Cedar St,Somewhen,MI,12345,2024-03-17,60.50,Red Velvet
+124,Xavier Martinez,xavier@example.com,555-7890,432 Birch St,Everytown,NC,23456,2023-10-02,80.70,Strawberry
+125,Yvonne Taylor,yvonne@example.com,555-2345,210 Maple St,Somewhy,WA,34567,2024-01-28,45.00,Blueberry
+126,Zoe Harris,zoe@example.com,555-6789,876 Elm St,Everywhere,TX,45678,2023-12-23,70.80,Chocolate
+127,Alexander Brown,alexander@example.com,555-1234,543 Pine St,Anywhere,FL,56789,2024-02-05,75.25,Vanilla
+128,Bella Johnson,bella@example.com,555-5678,654 Oak St,Nowhere,CA,67890,2023-09-10,55.50,Red Velvet
+129,Carlos Davis,carlos@example.com,555-9012,321 Cedar St,Somewhen,NY,12345,2024-03-25,120.60,Strawberry
+130,Daisy Smith,daisy@example.com,555-3456,876 Birch St,Everytown,WA,23456,2023-11-07,65.75,Blueberry
+131,Ethan Martinez,ethan@example.com,555-7890,109 Elm St,Anywhere,NC,34567,2024-02-14,80.20,Chocolate
+132,Fiona Wilson,fiona@example.com,555-2345,210 Pine St,Somewhy,MI,45678,2023-10-19,35.50,Vanilla
+133,George Taylor,george@example.com,555-6789,987 Oak St,Nowhen,WA,56789,2024-01-02,90.75,Red Velvet
+134,Hannah Brown,hannah@example.com,555-1234,543 Cedar St,Everywhere,TX
