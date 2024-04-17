@@ -1,0 +1,399 @@
+{
+  "results": [
+    {
+      "property": {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "2921 Deer Hollow Way UNIT 211",
+          "zipcode": "22031"
+        },
+        "attributionInfo": {
+          "agentName": "Roy Kohn",
+          "agentPhoneNumber": null,
+          "brokerName": "Redfin Corporation",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2161214",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg"
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "compsCarouselPropertyPhotos": [
+          {
+            "mixedSources": {
+              "jpeg": [
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_192.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_384.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_576.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_768.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_960.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_1152.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_1344.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/88f523046ce888c9098d7f2e6c5c2a55-cc_ft_1536.jpg"
+                }
+              ]
+            }
+          }
+        ],
+        "currency": "USD",
+        "dateSold": 1710201600000,
+        "daysOnZillow": 27,
+        "hdpUrl": "/homedetails/2921-Deer-Hollow-Way-UNIT-211-Fairfax-VA-22031/59787961_zpid/",
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "isUndisclosedAddress": false,
+        "lastSoldPrice": 475000,
+        "latitude": 38.87519,
+        "listing_sub_type": {
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1200,
+        "longitude": -77.26895,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "price": 475000,
+        "zestimate": 479200,
+        "zpid": 59787961
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "9490 Virginia Center Blvd UNIT 325",
+          "zipcode": "22181"
+        },
+        "attributionInfo": {
+          "agentName": "Vicki Reyes",
+          "agentPhoneNumber": null,
+          "brokerName": "RE/MAX Realty Centre, Inc.",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2150996",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg"
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "compsCarouselPropertyPhotos": [
+          {
+            "mixedSources": {
+              "jpeg": [
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_192.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_384.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_576.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_768.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_960.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_1152.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_1344.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/359fe7d27ed01b45bae52d2b470fabe4-cc_ft_1536.jpg"
+                }
+              ]
+            }
+          }
+        ],
+        "currency": "USD",
+        "dateSold": 1709078400000,
+        "daysOnZillow": 40,
+        "hdpUrl": "/homedetails/9490-Virginia-Center-Blvd-UNIT-325-Vienna-VA-22181/65729478_zpid/",
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "isUndisclosedAddress": false,
+        "lastSoldPrice": 465000,
+        "latitude": 38.88003,
+        "listing_sub_type": {
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1257,
+        "longitude": -77.27083,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "price": 465000,
+        "zestimate": 471700,
+        "zpid": 65729478
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "9486 Virginia Center Blvd UNIT 102",
+          "zipcode": "22181"
+        },
+        "attributionInfo": {
+          "agentName": "Lindsay Clark",
+          "agentPhoneNumber": null,
+          "brokerName": "Compass",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2140718",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg"
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "compsCarouselPropertyPhotos": [
+          {
+            "mixedSources": {
+              "jpeg": [
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_192.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_384.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_576.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_768.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_960.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_1152.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_1344.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/f030eea47b9e878daa357a55584dd7ce-cc_ft_1536.jpg"
+                }
+              ]
+            }
+          }
+        ],
+        "currency": "USD",
+        "dateSold": 1695600000000,
+        "daysOnZillow": 196,
+        "hdpUrl": "/homedetails/9486-Virginia-Center-Blvd-UNIT-102-Vienna-VA-22181/65729385_zpid/",
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "isUndisclosedAddress": false,
+        "lastSoldPrice": 415000,
+        "latitude": 38.88003,
+        "listing_sub_type": {
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1365,
+        "longitude": -77.27083,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "price": 415000,
+        "zestimate": 437900,
+        "zpid": 65729385
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "2911 Deer Hollow Way UNIT 324",
+          "zipcode": "22031"
+        },
+        "attributionInfo": {
+          "agentName": "Connie Hawkins",
+          "agentPhoneNumber": null,
+          "brokerName": "Vylla Home",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2146822",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg"
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "compsCarouselPropertyPhotos": [
+          {
+            "mixedSources": {
+              "jpeg": [
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_192.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_384.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_576.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_768.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_960.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_1152.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_1344.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/0ba383dd4373ec00bcbab91a993aa7e9-cc_ft_1536.jpg"
+                }
+              ]
+            }
+          }
+        ],
+        "currency": "USD",
+        "dateSold": 1698105600000,
+        "daysOnZillow": 167,
+        "hdpUrl": "/homedetails/2911-Deer-Hollow-Way-UNIT-324-Fairfax-VA-22031/60391389_zpid/",
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "isUndisclosedAddress": false,
+        "lastSoldPrice": 460000,
+        "latitude": 38.87584,
+        "listing_sub_type": {
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1218,
+        "longitude": -77.26903,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "price": 460000,
+        "zestimate": 484500,
+        "zpid": 60391389
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "9486 Virginia Center Blvd UNIT 202",
+          "zipcode": "22181"
+        },
+        "attributionInfo": {
+          "agentName": "Sheila Todd",
+          "agentPhoneNumber": null,
+          "brokerName": "Chase Realty",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2122748",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg"
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "compsCarouselPropertyPhotos": [
+          {
+            "mixedSources": {
+              "jpeg": [
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_192.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_384.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_576.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_768.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_960.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_1152.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_1344.jpg"
+                },
+                {
+                  "url": "https://photos.zillowstatic.com/fp/133eafa2af3b748721a6c0758da2adfe-cc_ft_1536.jpg"
+                }
+              ]
+            }
+          }
+        ],
+        "currency": "USD",
+        "dateSold": 1688083200000,
+        "daysOnZillow": 283,
+        "hdpUrl": "/homedetails/9486-Virginia-Center-Blvd-UNIT-202-Vienna-VA-22181/65729423_zpid/",
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "isUndisclosedAddress": false,
+        "lastSoldPrice": 425000,
+        "latitude": 38.88003,
+        "listing_sub_type": {
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1257,
+        "longitude": -77.27083,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "price": 425000,
+        "zestimate": 455400,
+        "zpid": 65729423
+      }
+    }
+  ]
+}
