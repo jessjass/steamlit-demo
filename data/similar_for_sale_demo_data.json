@@ -1,0 +1,544 @@
+{
+    "results": [
+      {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "9480 Virginia Center Blvd UNIT 120",
+          "zipcode": "22181"
+        },
+        "attributionInfo": {
+          "agentName": "George Kamil",
+          "agentPhoneNumber": null,
+          "brokerName": "United Real Estate",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2171968",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/9480-Virginia-Center-Blvd-UNIT-120-Vienna-VA-22181/65728607_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.88104,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1144,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1144,
+        "longitude": -77.26943,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/404df69a0a16de6a23310748a8d62087-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 430000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 65728607
+      },
+      {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "2701 Bellforest Ct APT 309",
+          "zipcode": "22180"
+        },
+        "attributionInfo": {
+          "agentName": "Kamalia Emerson",
+          "agentPhoneNumber": null,
+          "brokerName": "Samson Properties",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2169180",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/2701-Bellforest-Ct-APT-309-Vienna-VA-22180/51810329_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.88176,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 959,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 959,
+        "longitude": -77.22652,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5572d46f3cc76d50ba02d9b59f07cb4d-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 510000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 51810329
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "5510 Inverness Woods Ct",
+          "zipcode": "22032"
+        },
+        "attributionInfo": {
+          "agentName": "Susan Hottman",
+          "agentPhoneNumber": null,
+          "brokerName": "Malcolm Real Estate, Inc.",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2172916",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 3,
+        "bedrooms": 3,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/5510-Inverness-Woods-Ct-Fairfax-VA-22032/51894374_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "TOWNHOUSE",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.80134,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1220,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1220,
+        "longitude": -77.30385,
+        "lotAreaUnits": "Square Feet",
+        "lotAreaValue": 1500,
+        "lotSize": 1500,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7e1ce225f917ac7618ef337f833dbdb8-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 475500,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 51894374
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "12011 Golf Ridge Ct APT 102",
+          "zipcode": "22033"
+        },
+        "attributionInfo": {
+          "agentName": "Ms. Pat Stack",
+          "agentPhoneNumber": null,
+          "brokerName": "Weichert, REALTORS",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2168604",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/12011-Golf-Ridge-Ct-APT-102-Fairfax-VA-22033/51797453_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.87246,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1123,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1123,
+        "longitude": -77.36249,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/015c2a7caaa410228bbe189b2f429a08-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 415000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 51797453
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "4614 Superior Sq #4614",
+          "zipcode": "22033"
+        },
+        "attributionInfo": {
+          "agentName": "Derrick Lucy",
+          "agentPhoneNumber": null,
+          "brokerName": "Samson Properties",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2172190",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/4614-Superior-Sq-4614-Fairfax-VA-22033/2109189788_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "TOWNHOUSE",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.8627,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1230,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1230,
+        "longitude": -77.38983,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/97f6f95aa9a2f74bc0c9cb906a92c957-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 435000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 2109189788
+      },
+      {
+        "address": {
+          "city": "Vienna",
+          "state": "VA",
+          "streetAddress": "2726 Glengyle Dr #8",
+          "zipcode": "22181"
+        },
+        "attributionInfo": {
+          "agentName": "Krissy Cruse",
+          "agentPhoneNumber": null,
+          "brokerName": "Pearson Smith Realty LLC",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2170444",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/2726-Glengyle-Dr-8-Vienna-VA-22181/51771330_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.89208,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1131,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1131,
+        "longitude": -77.27783,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9bc139674f489b45a9137934e2476785-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 450000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 51771330
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "4289 Allison Cir",
+          "zipcode": "22030"
+        },
+        "attributionInfo": {
+          "agentName": "Nathan Johnson",
+          "agentPhoneNumber": null,
+          "brokerName": "Keller Williams Capital Properties",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFC2004306",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/4289-Allison-Cir-Fairfax-VA-22030/12259158_zpid/",
+        "homeStatus": "PENDING",
+        "homeType": "SINGLE_FAMILY",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.84404,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1166,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1166,
+        "longitude": -77.31851,
+        "lotAreaUnits": "Square Feet",
+        "lotAreaValue": 5999,
+        "lotSize": 5999,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a5c9b8583a9f72bd883ff775a1532998-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 500000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 12259158
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "4531 Superior Sq",
+          "zipcode": "22033"
+        },
+        "attributionInfo": {
+          "agentName": "Kelly Pappas",
+          "agentPhoneNumber": null,
+          "brokerName": "Realty ONE Group Capital",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAFX2168550",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/4531-Superior-Sq-Fairfax-VA-22033/65728484_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "TOWNHOUSE",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.86307,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1380,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1380,
+        "longitude": -77.39022,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/02b303be2fa5c5c92662dee10dbf5808-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 490000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 65728484
+      },
+      {
+        "address": {
+          "city": "Arlington",
+          "state": "VA",
+          "streetAddress": "6924 Fairfax Dr UNIT 306",
+          "zipcode": "22213"
+        },
+        "attributionInfo": {
+          "agentName": "Verria Hairston",
+          "agentPhoneNumber": null,
+          "brokerName": "Open Door Brokerage, LLC",
+          "brokerPhoneNumber": null,
+          "mlsId": "VAAR2042246",
+          "mlsName": null,
+          "providerLogo": "https://photos.zillowstatic.com/fp/3c0b241c63af930483095615f244c283-zillow_web_48_23.jpg",
+          "trueStatus": null
+        },
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/6924-Fairfax-Dr-UNIT-306-Arlington-VA-22213/12070120_zpid/",
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.88813,
+        "listing_sub_type": {
+          "is_FSBA": true,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 926,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 926,
+        "longitude": -77.16409,
+        "lotAreaUnits": "sqft",
+        "lotAreaValue": null,
+        "lotSize": null,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e77ac7c4233b897adc06b151ccf4917d-p_c.jpg"
+          }
+        ],
+        "newConstructionType": null,
+        "price": 483000,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 12070120
+      },
+      {
+        "address": {
+          "city": "Fairfax",
+          "state": "VA",
+          "streetAddress": "5053 Head Ct",
+          "zipcode": "22032"
+        },
+        "attributionInfo": {
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "trueStatus": null
+        },
+        "bathrooms": 2.5,
+        "bedrooms": 3,
+        "currency": "USD",
+        "hdpUrl": "/homedetails/5053-Head-Ct-Fairfax-VA-22032/51872982_zpid/",
+        "homeStatus": "OTHER",
+        "homeType": "TOWNHOUSE",
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "latitude": 38.815018,
+        "listing_sub_type": {
+          "is_FSBA": false,
+          "is_FSBO": false,
+          "is_bankOwned": false,
+          "is_comingSoon": false,
+          "is_forAuction": false,
+          "is_foreclosure": false,
+          "is_newHome": false
+        },
+        "livingArea": 1280,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "livingAreaValue": 1280,
+        "longitude": -77.27654,
+        "lotAreaUnits": "Square Feet",
+        "lotAreaValue": 1400,
+        "lotSize": 1400,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=38.81501770019531,-77.27654266357422&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=JukVVRc6ziHvsgUXJ63xmXoIlj8="
+          }
+        ],
+        "newConstructionType": null,
+        "price": 497200,
+        "providerListingID": null,
+        "state": "VA",
+        "zpid": 51872982
+      }
+    ]
+  }
