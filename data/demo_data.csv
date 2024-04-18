@@ -35,4 +35,4 @@ CustomerID,Name,Email,Phone,Address,City,State,ZipCode,PurchaseDate,TotalSpent,C
 131,Ethan Martinez,ethan@example.com,555-7890,109 Elm St,Anywhere,NC,34567,2024-02-14,80.20,Chocolate
 132,Fiona Wilson,fiona@example.com,555-2345,210 Pine St,Somewhy,MI,45678,2023-10-19,35.50,Vanilla
 133,George Taylor,george@example.com,555-6789,987 Oak St,Nowhen,WA,56789,2024-01-02,90.75,Red Velvet
-
+134,Hannah Brown,hannah@example.com,555-1234,543 Cedar St,Everywhere,TX
